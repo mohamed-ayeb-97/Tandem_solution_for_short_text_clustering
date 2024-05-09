@@ -1,0 +1,7 @@
+nltk 
+langchain_community 
+transformers 
+sentence-transformers==2.2.2
+scikit-learn 
+umap-learn 
+pyclustering
