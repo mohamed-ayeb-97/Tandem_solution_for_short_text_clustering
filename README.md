@@ -1,5 +1,3 @@
-Certainly! Here's a detailed description you can use for your GitHub repository:
-
 ---
 
 # Tandem Approach for Short Text Clustering
