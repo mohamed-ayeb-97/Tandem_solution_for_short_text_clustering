@@ -1,12 +1,12 @@
 ---
 
-<h3 align="center">
-    <img style="float: middle; padding: 10px 10px 10px 10px;" width="400" height="260" src="Assets/clust.png" />
-</h3>
 
 # Tandem Approach for Short Text Clustering
 
 This repository implements a robust tandem approach for clustering short texts, leveraging state-of-the-art natural language processing (NLP) techniques. By using sentence embeddings, dimensionality reduction, and clustering algorithms, this solution effectively groups semantically similar texts.
+
+
+![](Assets/clust.png)
 
 
 
