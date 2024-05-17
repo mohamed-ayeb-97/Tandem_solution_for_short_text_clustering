@@ -1,14 +1,7 @@
 ---
-<h4 align="center">
-    <p>
-        <a href="#Tandem-approach-for-short-text-clustering">Tandem approach for short text clustering</a> •
-        <a href="#Installation">Installation</a> •
-        <a href="#Experiments-and-results">Experiments and results</a>
-    <p>
-</h4>
 
 <h3 align="center">
-    <a href="https://www.iledefrance.fr/"><img style="float: middle; padding: 10px 10px 10px 10px;" width="400" height="260" src="assets/clust.png" /></a>
+    <img style="float: middle; padding: 10px 10px 10px 10px;" width="400" height="260" src="Assets/clust.png" /></a>
 </h3>
 
 # Tandem Approach for Short Text Clustering
