@@ -1,8 +1,21 @@
 ---
+<h4 align="center">
+    <p>
+        <a href="#Tandem-approach-for-short-text-clustering">Tandem approach for short text clustering</a> •
+        <a href="#Installation">Installation</a> •
+        <a href="#Experiments-and-results">Experiments and results</a>
+    <p>
+</h4>
+
+<h3 align="center">
+    <a href="https://www.iledefrance.fr/"><img style="float: middle; padding: 10px 10px 10px 10px;" width="400" height="260" src="assets/clust.png" /></a>
+</h3>
 
 # Tandem Approach for Short Text Clustering
 
 This repository implements a robust tandem approach for clustering short texts, leveraging state-of-the-art natural language processing (NLP) techniques. By using sentence embeddings, dimensionality reduction, and clustering algorithms, this solution effectively groups semantically similar texts.
+
+
 
 ## Key Features
 
