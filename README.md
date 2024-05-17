@@ -1,7 +1,7 @@
 ---
 
 <h3 align="center">
-    <img style="float: middle; padding: 10px 10px 10px 10px;" width="400" height="260" src="Assets/clust.png" /></a>
+    <img style="float: middle; padding: 10px 10px 10px 10px;" width="400" height="260" src="Assets/clust.png" />
 </h3>
 
 # Tandem Approach for Short Text Clustering
