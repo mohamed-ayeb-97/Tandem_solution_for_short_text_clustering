@@ -6,7 +6,7 @@
 This repository implements a robust tandem approach for clustering short texts, leveraging state-of-the-art natural language processing (NLP) techniques. By using sentence embeddings, dimensionality reduction, and clustering algorithms, this solution effectively groups semantically similar texts.
 
 
-![](Assets/clust.png)
+![](Assets/tandem.png)
 
 
 
